@@ -1,6 +1,5 @@
 * Written: 14/12/2023   
- By: Kimberly Njamen   
- Student No. X00214281   
+ By: Kimberly Njamen     
  Description: Ohm's Law Resistance Calculator   
  Learning Objectives Checklist: 
  1. Design a GUI: Done 
@@ -253,4 +252,5 @@ void clearInput() { // Function called clearInputs that Clears all previous inpu
  
  
  
+
  
